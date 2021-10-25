@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  urlAPIFirebase: 'https://identitytoolkit.googleapis.com/v1',
+  apiKey: 'AIzaSyDN9YqmoIvLNM92wzvENcJMC9YXkmlWhF0'
 };
 
 /*
